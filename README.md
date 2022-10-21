@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **JAVA**
 
-- 👨‍💻 All of my projects are available at [https://tourmaline-vacherin-5788ad.netlify.app/](https://tourmaline-vacherin-5788ad.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://avanishmani.github.io/]
 
 - 💬 Ask me about **HTML,CSS,JavaScript and Java**
 
