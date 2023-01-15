@@ -12,13 +12,13 @@
 
 - 🌱 I’m currently learning **JAVA**
 
-- 👨‍💻 All of my projects are available at [https://avanishmani.github.io/]
+- 👨‍💻 All of my projects are available at [Avanish Mani Tripathi Portfolio](https://avanishmani.github.io)
 
 - 💬 Ask me about **HTML,CSS,JavaScript and Java**
 
 - 📫 How to reach me **avanishmanitripathi@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/160jq8IufdIz4gG-75q5sR7YZNYops-6b/view?usp=sharing]
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/160jq8IufdIz4gG-75q5sR7YZNYops-6b/view?usp=sharing)
 
 - ⚡ Fun fact **A civil engineer known for there building skill not in the field of construction but build a web Development**
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avanishmani" alt="avanishmani" /></a> </p>
