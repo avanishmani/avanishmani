@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Avanish ManiTripathi</h1>
 <h3 align="center">A passionate Back-End developer from India</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=BF40BF&amp;size=20&amp;lines=Hey!+It's+Avanish+Mani+Tripathi+!;Java+Back-end+Developer...;" style="width: 100%;">
 <img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avanishmani&label=Profile%20views&color=0e75b6&style=flat" alt="avanishmani" /> </p>
@@ -38,14 +39,14 @@
 <div>
   </br>
   
-<div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avanishmani&theme=radical&langs_count=8" alt="Samruddhi" height="260px" width="25%" />
-  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=avanishmani&hide_border=true&area=true" height="255px" width="70%"/>
-<div>
 
 <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
-![](./profile-3d-contrib/profile-night-green.svg)
 
-![GitHub metrics](https://metrics.lecoq.io/avanishmani)
+
+<h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
+<br>
+<p align='center'>
+<img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<br>
 
