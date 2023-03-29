@@ -49,19 +49,19 @@
 
 <table  align=center>
   <tr>
-    <td align=center> <img src="http://github-readme-streak-stats.herokuapp.com?user=avanishmani&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D"  height=300   width=500 ></td>
+    <td align=center> <img src="http://github-readme-streak-stats.herokuapp.com?user=avanishmani&theme=radical&date_format=j%20M%5B%20Y%5D"  height=300   width=500 ></td>
     
   <td align=center> 
-    <img src="https://github-readme-stats.vercel.app/api?username=avanishmani&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="Loading"height=300 width=500/>
+    <img src="https://github-readme-stats.vercel.app/api?username=avanishmani&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="Loading"height=300 width=500/>
     </td>
   </tr>
   <tr>
   <td align=center> 
   
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=avanishmani&show_icons=true&locale=en&layout=compact" alt="avanishmani"   width=500  height=300>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=avanishmani&theme=radical&show_icons=true&locale=en&layout=compact" alt="avanishmani"   width=500  height=300>
    </td>
    <td>
-         <img width=500 height=300 src="https://github-readme-activity-graph.cyclic.app/graph?username=avanishmani&theme=dracula)](https://github.com/avanishmani/github-readme-activity-graph" />
+         <img width=500 height=300 src="https://github-readme-activity-graph.cyclic.app/graph?username=avanishmani&theme=radical)](https://github.com/avanishmani/github-readme-activity-graph" />
    </td>
    
    
@@ -91,7 +91,7 @@
 ## 🏆GitHub Trophies
 
 
-<img src="https://github-profile-trophy.vercel.app/?username=avanishmani&margin-w=15&margin-h=15&column=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=avanishmani&theme=radical&margin-w=15&margin-h=15&column=8" />
 </div>
 
 
