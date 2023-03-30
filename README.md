@@ -94,7 +94,11 @@
 <img src="https://github-profile-trophy.vercel.app/?username=avanishmani&theme=radical&margin-w=15&margin-h=15&column=8" />
 </div>
 
-
+<div>
+                    <img  width="1100px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+  <p align='center'><b> :balance_scale: Github Profile Details</b></p><br/>
+  <p align="center"><img width="800px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avanishmani&theme=radical" alt="Avanish" align = "center"/></p>
+</div>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -120,6 +124,7 @@
 <!--  <img  src="https://camo.githubusercontent.com/fd4484b75dc1de15a3d240490e12618602537ce08af426f69859c8a52eb13ca9/68747470733a2f2f61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d6d6568666f6f7a6b68616e67697468756226267468656d653d78636f6465" />  -->
 
 <!-- <div align="center">
+
   
 ### ✍️Random Dev Quote 
   
