@@ -22,15 +22,11 @@
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/160jq8IufdIz4gG-75q5sR7YZNYops-6b/view?usp=sharing)
 
 - ⚡ Fun fact **A civil engineer known for there building skill not in the field of construction but build a web Development**
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avanishmani" alt="avanishmani" /></a> </p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/imavanishmani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imavanishmani" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/imavanishmani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/imavanishmani" height="30" width="40" /></a>
-<a href="https://instagram.com/imavanishmani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imavanishmani" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/imavanishmani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/imavanishmani" height="30" width="40" /></a>
-<a href="https://leetcode.com/avanishmanitripathi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/avanishmanitripathi/" height="30" width="40" /></a>
-</p>
+
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+
 
 <h2 align="center">📊 My Github Stats<h2>
 <!-- <div>
@@ -60,6 +56,7 @@
   
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=avanishmani&theme=radical&show_icons=true&locale=en&layout=compact" alt="avanishmani"   width=500  height=300>
    </td>
+   
    <td>
          <img width=500 height=300 src="https://github-readme-activity-graph.cyclic.app/graph?username=avanishmani&theme=radical)](https://github.com/avanishmani/github-readme-activity-graph" />
    </td>
@@ -85,8 +82,10 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <!-- <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" /> -->
-
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=avanishmani&limit=5&theme=radical&combine_all_yearly_contributions=true)
 <div align="center">
+  
  
 ## 🏆GitHub Trophies
 
@@ -167,4 +166,9 @@
 <p align='center'>
 <img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <br>
+
+
+
+
+
 
