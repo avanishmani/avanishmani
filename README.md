@@ -7,13 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avanishmani&label=Profile%20views&color=0e75b6&style=flat" alt="avanishmani" /> </p>
 
+- 🌱 I’m currently learning **React**  📚
 
+- 📫 How to reach me: [Portfolio](https://avanishmani.github.io)
 
-- 🔭 I’m currently working on [MARRS Bank](https://github.com/avanishmani/tart-decision-3657)
+- 🔭 I’m currently working on [E-Cart Application](https://github.com/avanishmani/Online_Marketplace_API)
 
-- 🌱 I’m currently learning **JAVA**
-
-- 👨‍💻 All of my projects are available at [Avanish Mani Tripathi Portfolio](https://avanishmani.github.io)
+- 👨‍💻 All of my projects are available at [Avanish Mani Tripathi Projects](https://avanishmani.github.io)
 
 - 💬 Ask me about **HTML,CSS,JavaScript and Java**
 
