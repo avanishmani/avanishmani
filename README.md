@@ -1,6 +1,6 @@
 ![MasterHead](http://propulsive.in/assets/img/service-icon/web.gif)
 
-<h1 align="center">Hi 👋, I'm Avanish ManiTripathi</h1>
+<h1 align="center">Hi 👋, I'm Avanish Mani Tripathi</h1>
 <h3 align="center">A passionate Back-End developer from India</h3>
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=BF40BF&amp;size=20&amp;lines=Hey!+It's+Avanish+Mani+Tripathi+!;Java+Back-end+Developer...;" style="width: 100%;">
 <img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
